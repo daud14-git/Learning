@@ -1,0 +1,9 @@
+{
+	"name": "df-azurelearn",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d4197302-efd4-4bf0-932d-c72fa63b99f9",
+		"tenantId": "26a16ad9-1336-4807-8a8d-3152504039dd"
+	}
+}
